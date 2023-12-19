@@ -2,8 +2,8 @@ import React, {useState } from 'react';
 
 const FunctionalComponent = ({ variables }) => {
 
-    const login = "Simon";
-    const mdp ="Secret";
+    const login = "LoginVariable";
+    const mdp ="Variable";
 
     return (
         <div>
