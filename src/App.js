@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logoold.svg';
 import './App.css';
 import FunctionalComponent from './composant/composant.js';
 import FunctionalClass from './composant/class.js';
